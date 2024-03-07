@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZZyugi7I)
+Unity & C# project, where I created an animation including a robot, a trebuchet, a floating wall and an UFO. The entire animation is based on physics and mathematical functions for the robot to be able to perform human-like movements, and for the rest of the elements to move as naturally as possible. 
